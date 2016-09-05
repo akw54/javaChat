@@ -1,0 +1,5 @@
+How to use:
+1. Generate public/private keys: MPRIME=# NPRIME=# make genkey
+2. Run server: PORT=# E=# C=# D=# DC=# make server
+3. Run client: SERVER=# PORT=# E=# C=# D=# DC=# make client
+Type "/exit" in client to quit user or Ctrl+C
